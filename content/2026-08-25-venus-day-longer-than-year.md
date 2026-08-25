@@ -1,3 +1,12 @@
-# Did You Know? — A Venusian Day Is Longer Than Its Year
+# 金星的“一天”比“一年”还长
 
-One rotation of Venus takes about 243 Earth days, while one orbit around the Sun takes about 225 Earth days. On Venus, a day is therefore longer than a year.
+- 日期：2026-08-25
+- 标签：金星、行星、天文学、太阳系
+
+## 今日知识
+
+金星绕自身轴旋转一周约需 243 个地球日，但绕太阳公转一周只需约 225 个地球日。因此，如果把“一天”理解为行星自转一周，那么金星的一天确实比它的一年还长。
+
+金星的自转方向还是反向自转（retrograde rotation），与地球等多数行星相反。在金星表面，太阳会从西边升起，再向东边落下。不过，由于金星自转与公转方向和速度的共同作用，太阳从一次升起到下一次升起的太阳日约为 117 个地球日，这与恒星日的 243 天并不是同一个概念。
+
+这颗看似明亮美丽的行星，表面却极其 hostile：平均温度约 465°C，大气压力约为地球海平面的 92 倍，厚重的大气还带来强烈的温室效应。漫长的自转、反向的日出方向，以及灼热而高压的表面，使金星成为太阳系中最反常、也最严酷的世界之一。
