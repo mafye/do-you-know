@@ -1,3 +1,12 @@
-# Did You Know? — Naturally Preserved Human Brains
+# 自然保存的人类大脑
 
-Some human brains have been naturally preserved for centuries or longer in unusual environments, such as waterlogged, oxygen-poor conditions that slow decomposition.
+- 日期：2026-08-21
+- 标签：考古学、人体遗存、自然保存、生物学
+
+## 今日知识
+
+通常，人类死亡后，柔软的神经组织会比骨骼、牙齿等坚硬组织更快腐败。然而，考古发现表明，人类脑组织并不总是注定最先消失：在特殊的地质与环境条件下，它可以跨越数千年仍留下清晰的组织残迹，甚至保留部分原有结构。
+
+泥炭沼泽中的酸性、低温和缺氧环境，能够抑制微生物活动；干燥的沙地则通过迅速脱水减缓分解；严寒地区的冻结可以长期锁住组织变化；而在某些化学条件下发生的皂化，会让脂肪转化为类似蜡质的物质，从而帮助遗骸保存。这些环境像天然的“时间胶囊”，让本应迅速消失的脑组织得以幸存。
+
+这类发现挑战了“柔软的神经组织总会最先腐烂”的传统认识，也提醒我们：遗骸能否保存，关键取决于微环境，而不仅仅是组织本身的软硬。
