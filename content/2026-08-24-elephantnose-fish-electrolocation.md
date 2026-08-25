@@ -1,3 +1,12 @@
-# Did You Know? — Elephantnose Fish Electrolocation
+# 象鼻鱼的电感知“舞蹈”
 
-Elephantnose fish actively sense their surroundings by generating weak electric fields. Their movements can look like a dance as they use electrolocation to navigate and detect nearby objects.
+- 日期：2026-08-24
+- 标签：鱼类、主动电感知、动物行为、非洲河流
+
+## 今日知识
+
+生活在非洲浑浊河流中的象鼻鱼，无法像我们一样依靠清澈的视线观察周围环境。它们会由特殊器官发出微弱的电脉冲，再通过皮肤上的电感受器读取返回的变化，以此判断障碍物、猎物和同伴的位置。这种主动发出信号、再分析环境反馈的能力，被称为主动电感知。
+
+象鼻鱼在游动、觅食和交流时，会不断调整电脉冲的节奏与强度，身体和鳍的动作看起来仿佛一场精细的“电舞蹈”。这些电信号不仅帮助它们在黑暗浑浊的水中绘制周围环境，也能传递身份、状态和社交信息。
+
+更令人惊讶的是，象鼻鱼拥有相对于身体大小而言极其庞大的大脑，对氧气和能量的需求比例甚至可与人类相提并论。它们的大脑正是支撑复杂电感知、空间判断与社会交流的核心。
