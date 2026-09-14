@@ -36,6 +36,6 @@ tags:
 
 ## 参考资料
 
-- Gお? No. Miller, P. J. O. et al. “Sperm whale social behaviour: surface resting in a vertical posture.” Current Biology, 2008.
+- Miller, P. J. O. et al. “Sperm whale social behaviour: surface resting in a vertical posture.” Current Biology, 2008.
 - BBC News, “Sperm whales sleep vertically.” https://www.bbc.com/news/science-environment-7482552
 - National Geographic, “Sperm Whales Sleep Vertically.” https://www.nationalgeographic.com/animals/article/080703-sperm-whale-sleeping
