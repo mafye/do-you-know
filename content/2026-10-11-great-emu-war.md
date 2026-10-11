@@ -4,8 +4,8 @@ date: 2026-10-11
 tags:
   - 鸸鹋战争
   - 澳大利亚历史
-  - 专利局
   - 野生动物管理
+  - 农业
 source: https://en.wikipedia.org/wiki/Great_Emu_War
 ---
 
