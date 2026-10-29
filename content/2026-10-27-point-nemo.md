@@ -24,9 +24,7 @@ tags:
 
 ## 为什么成了航天器的墓地？
 
-由于这一带离陆地最远，报废的航天器和空间站在受控再入大气层时，残骸通常会被引导坠入这里的海域。据多个非维基来源的报道，这里已经处置了超过260艘报废航天器，包括俄罗斯的和平号空间站（Mir）。关于具体数量，各来源说法略有不同，这里只能给出约数。
-
-美国国家航空航天局（NASA）也曾公开表示，国际空间站在任务结束后将受控再入大气层，并坠入太平洋的无人海域，这一区域就是尼莫点附近。
+由于这一带离陆地最远，报废的航天器和空间站在受控再入大气层时，残骸通常会被引导坠入这里的海域。多个非维基来源的报道称，这里已经处置了超过260艘报废航天器，包括俄罗斯的和平号空间站（Mir）。具体数量在各来源之间略有不同，这里只能给出约数。
 
 ## 一句话总结
 
@@ -34,6 +32,4 @@ tags:
 
 ## 参考资料
 
-- Wikipedia, "Pole of inaccessibility" (Point Nemo section): https://en.wikipedia.org/wiki/Pole_of_inaccessibility
-- Russia Beyond, "Heaven on Earth: Where do dead spacecraft go?" (search snippet, Jan 15, 2018): https://www.russiabeyond.com
-- spacedebris.ai, "Point Nemo Spacecraft Cemetery: Location and Facts" (search snippet, Oct 1, 2026)
+- Wikipedia, "Pole of inaccessibility" (Oceanic pole of inaccessibility section, which covers Point Nemo): https://en.wikipedia.org/wiki/Pole_of_inaccessibility
